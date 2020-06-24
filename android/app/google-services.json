@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845474262941",
+    "firebase_url": "https://simplebooks-70313.firebaseio.com",
+    "project_id": "simplebooks-70313",
+    "storage_bucket": "simplebooks-70313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845474262941:android:3b7d63cfcf855120158974",
+        "android_client_info": {
+          "package_name": "pk.abeeralisiddiqui.simplybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845474262941-4v45mmuf2oamnqeoln0ir0q5g6sa9k7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRtVabt1ovO2RJ8aOfX-soRE_PKuE4pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845474262941-4v45mmuf2oamnqeoln0ir0q5g6sa9k7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
