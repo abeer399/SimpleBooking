@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simplybook/web_view.dart';
-
+import 'package:simplybook/splash_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,10 +17,8 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         // visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: WebViewPage(
-        selectedUrl: 'https://thesunemporium.simplybook.me/v2/#book',
-        title: '',
-      ),
+      debugShowCheckedModeBanner: false,
+      home: SplashScreen()
     );
   }
 }
